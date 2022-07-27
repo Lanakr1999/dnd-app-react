@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lanakr1999/dnd-app-react/static/css/main.5d8e8c07.css",
+    "main.js": "/Lanakr1999/dnd-app-react/static/js/main.f86bd240.js",
+    "index.html": "/Lanakr1999/dnd-app-react/index.html",
+    "main.5d8e8c07.css.map": "/Lanakr1999/dnd-app-react/static/css/main.5d8e8c07.css.map",
+    "main.f86bd240.js.map": "/Lanakr1999/dnd-app-react/static/js/main.f86bd240.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d8e8c07.css",
+    "static/js/main.f86bd240.js"
+  ]
+}
