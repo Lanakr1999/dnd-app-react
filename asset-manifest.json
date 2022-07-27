@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Lanakr1999/dnd-app-react/static/css/main.5d8e8c07.css",
-    "main.js": "/Lanakr1999/dnd-app-react/static/js/main.a0f2fc23.js",
-    "index.html": "/Lanakr1999/dnd-app-react/index.html",
-    "main.5d8e8c07.css.map": "/Lanakr1999/dnd-app-react/static/css/main.5d8e8c07.css.map",
-    "main.a0f2fc23.js.map": "/Lanakr1999/dnd-app-react/static/js/main.a0f2fc23.js.map"
+    "main.css": "/dnd-app-react/static/css/main.5d8e8c07.css",
+    "main.js": "/dnd-app-react/static/js/main.a0f2fc23.js",
+    "index.html": "/dnd-app-react/index.html",
+    "main.5d8e8c07.css.map": "/dnd-app-react/static/css/main.5d8e8c07.css.map",
+    "main.a0f2fc23.js.map": "/dnd-app-react/static/js/main.a0f2fc23.js.map"
   },
   "entrypoints": [
     "static/css/main.5d8e8c07.css",
