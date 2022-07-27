@@ -1,13 +1,21 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Finlandica&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Finlandica', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body{
+    width: 100%;
+    height: 100vmin;
+    background: #F4FFF8;
 }
+
+/*Main colors
+  #050505
+  #F4FFF8
+  #5D737E
+  #B80C09
+  #FCBA04
+*/
